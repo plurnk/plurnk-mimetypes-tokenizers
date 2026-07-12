@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-mimetypes-tokenizers/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-mimetypes-tokenizers
 
 Bundled LLM tokenizer vocabularies for [@plurnk/plurnk-mimetypes](https://github.com/plurnk/plurnk-mimetypes)' tokenizer seam (SPEC §19) — exact token counting for context-window math.
